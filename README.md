@@ -25,7 +25,7 @@ Access the app from any browser: **[https://donorshub.org](https://donorshub.org
 - **Backend:** Node.js, Express (Hosted on Vercel)
 - **Database:** Firebase Firestore
 - **Authentication:** Firebase Auth (Email/Pass & Google Sign-In)
-- **Maps:** OpenStreetMap (`flutter_map`)
+<!--- **Maps:** OpenStreetMap (`flutter_map`) -->
 
 ## 📸 App Preview
 <img width="200" height="560" alt="Screenshot from 2026-04-06 12-22-51" src="https://github.com/user-attachments/assets/80d5c527-043d-4ce6-bf8d-fc1661abd847" />
