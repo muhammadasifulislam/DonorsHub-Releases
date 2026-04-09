@@ -15,7 +15,7 @@
 - **Modern UX:** Soft UI, interactive blood dials, and animated real-time counters.
 
 ## 📥 Download the App
-**[⬇️ Download Latest APK Here](https://github.com/muhammadasifulislam/DonorsHub-Releases/releases/tag/v1.0.1)**
+**[⬇️ Download Latest APK Here](https://github.com/muhammadasifulislam/DonorsHub-Releases/releases/tag/v1.0.2)**
 
 ## 🌐 Web Version
 Access the app from any browser: **[https://donorshub.org](https://donorshub.org)**
