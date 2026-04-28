@@ -1,7 +1,8 @@
 # DonorsHub - Smart Emergency Blood Request App
 
 <p align="center">
-  <img width="150" height="150" alt="oldapp_icon" src="https://github.com/user-attachments/assets/2b5e70ef-8b07-43ef-a61d-fe67ceabb02c" />
+  <img width="150" height="150" alt="Logo - 1 - Edited" src="https://github.com/user-attachments/assets/d041661e-dc89-4a85-898c-950b0833c0a9" />
+
 </p>
 
 **DonorsHub** is a highly optimized, zero-cost, modern blood donation ecosystem designed for Bangladesh. It connects blood seekers with the nearest available donors instantly using GPS and smart routing.
