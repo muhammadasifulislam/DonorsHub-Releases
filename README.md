@@ -1,7 +1,7 @@
 # DonorsHub - Smart Emergency Blood Request App
 
 <p align="center">
-  <img width="512" height="512" alt="Logo (1)" src="https://github.com/user-attachments/assets/a08f70c8-551d-46f4-9430-45d6d3b67e6e" />
+  <img width="150" height="150" alt="Logo (1)" src="https://github.com/user-attachments/assets/a08f70c8-551d-46f4-9430-45d6d3b67e6e" />
 
 
 </p>
